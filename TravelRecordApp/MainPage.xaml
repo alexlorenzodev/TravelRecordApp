@@ -10,7 +10,7 @@
         <Entry x:Name="passwordEntry" TextColor="{StaticResource blueColor }" Placeholder="Password" IsPassword="True"/>
         <Button x:Name="loginButton"
                 Text="Login"            
-               Clicked="loginButton_Clicked"
+                Clicked="loginButton_Clicked"
                 Style="{StaticResource normalButton}"/>
     </StackLayout>
 

@@ -26,6 +26,7 @@ namespace TravelRecordApp
             }
             else
             {
+                //just a random comment
                 //navigate
                 Navigation.PushAsync(new HomePage());
             }

@@ -5,6 +5,7 @@
     <Application.Resources>
 
         <ResourceDictionary>
+           
             <Color x:Key="blueColor"> purple </Color>
             <Color x:Key="whiteColor">#FFFFFF </Color>
             <Style x:Key="normalButton" TargetType="Button">
