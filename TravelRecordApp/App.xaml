@@ -4,5 +4,14 @@
              x:Class="TravelRecordApp.App">
     <Application.Resources>
 
+        <ResourceDictionary>
+            <Color x:Key="blueColor"> purple </Color>
+            <Color x:Key="whiteColor">#FFFFFF </Color>
+            <Style x:Key="normalButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="{StaticResource blueColor}"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+        </ResourceDictionary>
+
     </Application.Resources>
 </Application>
